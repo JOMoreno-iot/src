@@ -17,3 +17,4 @@ tran en Internet tienden a repetir trozos predefinidos cuando sea necesario, hac
 do) en la Internet. Usa un diccionario de mas de 200 palabras provenientes del latín, combinadas con estructuras muy úti
 les de sentencias, para generar texto de Lorem Ipsum que parezca razonable. Este Lorem Ipsum generado siempre estará lib
 re de repeticiones, humor agregado o palabras no características del lenguaje, etc. 
+Agrago texto en Index
