@@ -18,3 +18,8 @@ do) en la Internet. Usa un diccionario de mas de 200 palabras provenientes del l
 les de sentencias, para generar texto de Lorem Ipsum que parezca razonable. Este Lorem Ipsum generado siempre estará lib
 re de repeticiones, humor agregado o palabras no características del lenguaje, etc. 
 Agrago texto en Index
+it 
+Ahora vamos a crear una nueva rama
+ vamos a crear un nuevo commit en la nueva rama
+ vamos a cambios en rama
+ 
